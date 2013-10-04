@@ -40,7 +40,7 @@ h1{
 	color: #116189;
 }
 
-h2{
+.subhead{
 	font-style: italic;
 	margin: 10px 0;
 	font-size: 120%;
@@ -104,4 +104,24 @@ nav{
 
 .hyperlink:hover{
 	text-decoration: underline;
+}
+
+.person > img{
+	float: left;
+}
+
+.about-sect{
+	font-size: 24px;
+	font-weight: bold;
+	color: #116189;
+	margin: 10px 0;
+}
+
+.nametitle{
+	color: #116189;
+	font-weight: bold;
+}
+
+.person{
+	overflow: hidden;
 }
